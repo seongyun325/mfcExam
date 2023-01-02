@@ -11,6 +11,7 @@
 #define IDC_BTN_DLG                     1000
 #define IDC_BTN__UP_PARENT              1001
 #define IDC_BTN_UP_PARENT               1001
+#define IDC_BTN_TEST                    1002
 
 // Next default values for new objects
 // 
@@ -18,7 +19,7 @@
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        131
 #define _APS_NEXT_COMMAND_VALUE         32771
-#define _APS_NEXT_CONTROL_VALUE         1002
+#define _APS_NEXT_CONTROL_VALUE         1003
 #define _APS_NEXT_SYMED_VALUE           104
 #endif
 #endif
